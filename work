@@ -1,0 +1,9 @@
+list=[]
+list.append("apple")
+list.append("banana")
+list.append("mango")
+print(list)
+tuple=("chair","table","books")
+print(tuple[1])
+dictionary={"1947":"independence","neptune":"planet","table":"chair"}
+print(dictionary.popitem())
